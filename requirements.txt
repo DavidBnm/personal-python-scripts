@@ -12,4 +12,3 @@ google-cloud-bigquery
 google-auth
 google-api-python-client
 pandas-gbq
-apache-beam[gcp]

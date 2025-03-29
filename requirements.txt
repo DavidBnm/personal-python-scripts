@@ -1,0 +1,15 @@
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+pyodbc
+pyspark
+boto3
+requests
+google-cloud
+google-cloud-storage
+google-cloud-bigquery
+google-auth
+google-api-python-client
+pandas-gbq
+apache-beam[gcp]
